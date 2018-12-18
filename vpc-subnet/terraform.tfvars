@@ -1,0 +1,5 @@
+region = "us-central1"
+gcp_project = "learn-internal"
+credentials ="policy1.json"
+name        ="devn"
+subnet_cidr ="10.10.0.0/24"
